@@ -8,5 +8,8 @@
     <string name="et_enter_msg">Enter a Message</string>
 
     <string name="btn_was_clicked">Button was clicked !</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
 
 </resources>
